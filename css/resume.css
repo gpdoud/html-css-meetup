@@ -1,0 +1,11 @@
+body { font: 18pt Tahoma, Arial, sans-serif; padding: 10px;}
+div { width: 49%; display: inline-block; vertical-align: top;}
+header { margin-bottom: 1em; vertical-align: text-top;}
+section { border-top: 2px solid silver; }
+table { width: 100%; }
+/*img { float: right; }*/
+.bold { font-weight: bold; }
+.italic { font-style: italic; }
+#name { font-size: 2em; font-weight: bold; }
+#pic { text-align: right; }
+}
